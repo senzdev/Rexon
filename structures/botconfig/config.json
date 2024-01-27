@@ -1,0 +1,34 @@
+{
+    "env": {
+        "TOKEN": "OTUwMzEzMDYzNDczNjQzNTIw.GYBDUt.MlYcD0EVL9gaBklChjkTcVkg_kSQhneyX1kVH4",
+        "PREFIX": "*",
+        "MongoDB_TOKEN": "mongodb+srv://rexonadmin:WKMr6hfCLw8UV5cE@rexondb.tmub2yk.mongodb.net/?retryWrites=true&w=majority",
+        "INVITE": "https://discord.gg/V77D2sdSvV",
+        "WEBSITE": "https://rexon-bot.xyz",
+        "google_API": "",
+        "google_Engine_id": "",
+        "news_API": "7a11772cc0a2412a8764ac62155c4612",
+        "giphy_API": "9oGtUHZZbqg5pPIysLkA0wBgpxKAY0cb"
+    },
+    "music": {
+        "musicRequestImage": "",
+        "youtubeCookie": ""
+    },
+    "botlogs": {
+        "inviteLogs": "1168472648917991434",
+        "feedbackChannel": "1168472648917991434",
+        "bugChannel": "1168472648917991434",
+        "suggestionChannel": "1065198925579034624",
+        "commandLogsChannel": "1168472648917991434",
+        "errorLogsChannel": "1168472648917991434",
+        "premiumLogChannel": "1168472648917991434"
+    },
+    "events": {
+        "Enable_debug": false
+    },
+    "Premium_Activator": "1026798107188543518", 
+    "ownerID": ["929376473134010419"],
+    "SlashCommandsGlobal": true,
+    "SlashCommand_Server_id": "1026798107188543518",
+    "Enable_MongoDB": true
+}
