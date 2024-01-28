@@ -1,0 +1,1300 @@
+{
+    "name": "・Lunatic Store | Digital Store",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "enabled": false,
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "Ｓｅｒｖｅｒ ｓｔａｔｓ",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "1050624"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "All Members: 13",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Ｓｅｒｖｅｒ ｓｔａｔｓ",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1050624"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "Members: 6",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Ｓｅｒｖｅｒ ｓｔａｔｓ",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1050624"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "Bots: 7",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Ｓｅｒｖｅｒ ｓｔａｔｓ",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1050624"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ｇａｔｅａｗａｙ",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "👥・Visitors Lunatic Store",
+                        "allow": "1024",
+                        "deny": "103079217216"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛬︱ᴡᴇʟᴄᴏᴍᴇ・ʟᴇᴀᴠᴇꜱ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｇａｔｅａｗａｙ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📤︱ɪɴᴠɪᴛᴇꜱ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｇａｔｅａｗａｙ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Ｉｍｐｏｒｔａｎｔ",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "👥・Visitors Lunatic Store",
+                        "allow": "1024",
+                        "deny": "103079217216"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📢︱ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｉｍｐｏｒｔａｎｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📋︱ʀᴜʟᴇꜱ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｉｍｐｏｒｔａｎｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📌︱ᴛᴀᴋᴇ-ʀᴏʟᴇꜱ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｉｍｐｏｒｔａｎｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎊︱ɢɪᴠᴇᴀᴡᴀʏ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｉｍｐｏｒｔａｎｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📍︱ʟɪɴᴋ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｉｍｐｏｒｔａｎｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💸︱ᴍɪᴅᴍᴀɴ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｉｍｐｏｒｔａｎｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏅︱ʀᴇᴘᴜᴛᴀᴛɪᴏɴ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｉｍｐｏｒｔａｎｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "3072",
+                                "deny": "103079215168"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💳︱ᴘᴀʏᴍᴇɴᴛ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｉｍｐｏｒｔａｎｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Ｉｎｆｏｒｍａｔｉｏｎ",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📦︱ʀᴇᴀʟᴛɪᴍᴇ-ꜱᴛᴏᴄᴋ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｉｎｆｏｒｍａｔｉｏｎ",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📬︱ᴅᴏɴᴀᴛɪᴏɴ-ʟᴏԍꜱ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｉｎｆｏｒｍａｔｉｏｎ",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🗒︱ʜɪꜱᴛᴏʀʏ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｉｎｆｏｒｍａｔｉｏｎ",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Ｐｒｏｄｕｃｔ",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "👥・Visitors Lunatic Store",
+                        "allow": "1024",
+                        "deny": "103079217216"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒︱ᴘᴀɴᴇʟ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｐｒｏｄｕｃｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒︱ʀᴅᴘ・ɴʙ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｐｒｏｄｕｃｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒︱ʀᴅᴘ・ʙʟᴏᴄᴋ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｐｒｏｄｕｃｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒︱ʀᴅᴘ・ʟɪɴᴏᴅᴇ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｐｒｏｄｕｃｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒︱ᴠʏᴘʀ・ᴠᴘɴ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｐｒｏｄｕｃｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒︱ᴘʀᴏxʏ・ꜱᴏᴄᴋꜱ5",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｐｒｏｄｕｃｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒︱ᴠᴘɴ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｐｒｏｄｕｃｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒︱ᴅɪᴀᴍᴏɴᴅ・ʟᴏᴄᴋ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｐｒｏｄｕｃｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒︱ᴄʀᴇᴀᴛᴇ-ɪᴅ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｐｒｏｄｕｃｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛒︱ʟɪᴄᴇɴꜱᴇ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｐｒｏｄｕｃｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Ｓｃｒｉｐｔ",
+                "permissions": [
+                    {
+                        "roleName": "👥・Visitors Lunatic Store",
+                        "allow": "0",
+                        "deny": "103079218240"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏷︱ʀᴏᴛᴀᴛɪᴏɴ・ꜰᴀʀᴍ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｓｃｒｉｐｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "0",
+                                "deny": "103079218240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏷︱ᴘɴʙ・ᴍᴜʟᴛɪ・ᴡᴏʀʟᴅ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｓｃｒｉｐｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "0",
+                                "deny": "103079218240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏷︱ᴀᴜᴛᴏ・ꜰɪɴᴅ・ᴅꜰ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｓｃｒｉｐｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "0",
+                                "deny": "103079218240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏷︱ᴀᴜᴛᴏ・ᴍᴏᴠᴇ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｓｃｒｉｐｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "0",
+                                "deny": "103079218240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏷︱ᴀᴜᴛᴏ・ᴘʟᴀɴᴛ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｓｃｒｉｐｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "0",
+                                "deny": "103079218240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏷︱ᴀᴜᴛᴏ・ɢᴇɪɢᴇʀ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｓｃｒｉｐｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "0",
+                                "deny": "103079218240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏷︱ᴀᴜᴛᴏ・ʜᴀʀᴠᴇꜱᴛ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｓｃｒｉｐｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "0",
+                                "deny": "103079218240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏷︱ᴅᴏɴᴀᴛɪᴏɴ-ᴡᴇʙʜᴏᴏᴋ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｓｃｒｉｐｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "0",
+                                "deny": "103079218240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏷︱ᴀᴜᴛᴏ・ꜱᴘᴀᴍ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｓｃｒｉｐｔ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "0",
+                                "deny": "103079218240"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Ｇｅｎｅｒａｌ",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "👥・Visitors Lunatic Store",
+                        "allow": "3072",
+                        "deny": "377957171264"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬︱ᴄʜᴀᴛ・ᴘᴜʙʟɪᴄ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｇｅｎｅｒａｌ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "3072",
+                                "deny": "377957171264"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📸︱ᴍᴇᴅɪᴀ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｇｅｎｅｒａｌ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "52224",
+                                "deny": "377957122112"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💰︱ᴍᴀʀᴋᴇᴛᴘʟᴀᴄᴇ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 10,
+                        "parent": "Ｇｅｎｅｒａｌ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "3072",
+                                "deny": "377957171264"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖︱ʙᴏᴛ・ᴄᴏᴍᴍᴀɴᴅꜱ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｇｅｎｅｒａｌ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "3072",
+                                "deny": "377957171264"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Ｐａｒｔｎｅｒ",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "⭐︱ᴘᴀʀᴛɴᴇʀ・ɪɴꜰᴏ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｐａｒｔｎｅｒ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Ｌｏｇｓ",
+                "permissions": [
+                    {
+                        "roleName": "👥・Visitors Lunatic Store",
+                        "allow": "1024",
+                        "deny": "103079217216"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔎︱ᴏɴʟɪɴᴇ・ᴘʟᴀʏᴇʀ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｌｏｇｓ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🌊︱ʙᴀɴ・ᴡᴀᴠᴇ・ʟᴏɢꜱ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｌｏｇｓ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "ban wave logger",
+                                "allow": "1024",
+                                "deny": "377957124160"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🆙︱ʟᴇᴠᴇʟꜱ・ᴜᴘ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｌｏｇｓ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚀︱ʙᴏᴏꜱᴛ・ʟᴏɢꜱ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｌｏｇｓ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📦︱ᴅᴏɴᴀᴛɪᴏɴ・ʟᴏɢꜱ",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｌｏｇｓ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "👥・Visitors Lunatic Store",
+                                "allow": "1024",
+                                "deny": "103079217216"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Ｓｔａｆｆ ｏｎｌｙ",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👑︱staff-info",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｓｔａｆｆ ｏｎｌｙ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👑︱staff-chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｓｔａｆｆ ｏｎｌｙ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👑︱staff-commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ｓｔａｆｆ ｏｎｌｙ",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "🔰︱ᴠᴇʀɪꜰʏ",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "👑・Founder of Lunatic Store",
+            "color": "#e6ff00",
+            "hoist": true,
+            "permissions": "137411140374089",
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "👑・Admin Lunatic Store",
+            "color": "#00a0ff",
+            "hoist": true,
+            "permissions": "137411140374081",
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "👑・Moderator Lunatic Store",
+            "color": "#e93333",
+            "hoist": true,
+            "permissions": "137411140374081",
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "🛍️・Buyer Product",
+            "color": "#49ff72",
+            "hoist": true,
+            "permissions": "137411140374081",
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "🏷️・Buyer Scripts",
+            "color": "#ffb21c",
+            "hoist": true,
+            "permissions": "137411140374081",
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "👥・Visitors Lunatic Store",
+            "color": "#428eff",
+            "hoist": true,
+            "permissions": "137411140374081",
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "🤖・Bot Lunatic Store",
+            "color": "#fbca3a",
+            "hoist": true,
+            "permissions": "137411140374089",
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "ban wave logger",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "137411140374081",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "533235326373441",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [
+        {
+            "name": "LS_ban",
+            "base64": "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"
+        },
+        {
+            "name": "LS_verify",
+            "base64": "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"
+        },
+        {
+            "name": "LS_check_mark",
+            "base64": "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"
+        }
+    ],
+    "createdTimestamp": 1698583767499,
+    "guildID": "1096551916747632801",
+    "id": "1168169731354656768",
+    "iconBase64": "UklGRrgCAABXRUJQVlA4IKwCAACwEACdASqAAIAAPm02l0ikIyIhJRM5MIANiWkAFed9cv9Jrqv83wg7SlWQKosV3nU54/pj0Tf+HwEv7VDqk8cOlQFykXAWcSCNh+N0AJ8FBJ/ALNyOX6F7mpiKWCnMTQF3k/euqkq6wwwKuiFMOEklb6bVYrTl1EBRgvwEgiUEzwE8/cR27Eiwg9wXJ3gAAP78rRACcQelEDBXYAYFHnZjWLKH/t/ymDPQac3gZ96DBgWAi8PjcVn7mVOVQoINawLCgzC0JknaYCg3XN7EPJ+fw9sH4a8l0c0ezljJAzRnPR6BtcIlHyXr7yrXHe6p6pd5u+ZGpbfEPf0qhRCgASG54bQNP97t4YQPUhf40D+LEnf0gD8ASiGAMQ+8TcPT7cAdWEc6j1gIWQI54wjVzEsfFe9xf4ZqJ9zxWmaROQKZwNG1v5W6QJyicC+LW76Q6Kje02U+L9t+n0EBnMU92wMIxGGSbu6T4PLaiv23LJpTobbv1yds3JERT4por9g4Jvm2UgSKRBlaxrYdeKqm+Z/dQxk4g2/l7x33YM/iHCtRCmI7aD/kvipeB+Huin6a3nYTvfgXemNXp/5bUoLI8aTM/DCf/ki2t5NkwLWXgcpS3swBsp8pr9QbwxnmDWSqF2MK6P/+g7q5Dd8wxVA3EUP7cKoatgm+ozHJQsiSnIMJgwlfbmn8V6/zuNwvOePrSRstDzw1zUw81cfRcOzcb6If/HN9IdiuWhhjsHwHh8+sZveRcDernFrLLN3urxrdHwpqDox3cqXRXrWOC1kectFf3sIcqlcfZZNnoCeHfZn3PR4YBFWlfx32dpAK/jQ614SkohmpXIRY04UePJ49LoP3PzFPmaOgduoIRyCCmTfa0RbLeGmB701g5V0fZERnB8pjbilUjlj4WgAAAAA=",
+    "iconURL": "https://cdn.discordapp.com/icons/1096551916747632801/2d864792914594399d4c42d0fbbea846.webp"
+}

@@ -1,0 +1,519 @@
+{
+    "name": "・Detrox Community | Ads・Chill・Social",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "﹒       ｡˚𓂃﹒INFORMATIONS",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "377957173312"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒🍬゛news",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒INFORMATIONS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "377957173312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒🍬゛guidelines",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒INFORMATIONS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "377957173312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒🍬゛self-roles",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒INFORMATIONS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "377957173312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "﹒       ｡˚𓂃﹒BULLETIN",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "377957173312"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒🍭゛perks",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒BULLETIN",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "377957173312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒🍭゛support-us",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒BULLETIN",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "377957173312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒🍭゛tickets",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒BULLETIN",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "377957173312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "﹒       ｡˚𓂃﹒GIVEAWAYS",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "377957312576"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒🎉゛exclusives",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒GIVEAWAYS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "377957312576"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒🎉゛quick-drops",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒GIVEAWAYS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "377957312576"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒🎉゛no-requirement",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒GIVEAWAYS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "377957312576"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "﹒       ｡˚𓂃﹒GENERAL",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒☕゛lounge",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒GENERAL",
+                        "topic": "**__https://discord.gg/detroxcm__**\n**Read <#949850696453337100> before chatting**",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "377957310528"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒☕゛media",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒GENERAL",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "52224",
+                                "deny": "377957261376"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒☕゛commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒GENERAL",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "377957310528"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "﹒       ｡˚𓂃﹒EXTRA",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "377957173312"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒☁゛invites-logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒EXTRA",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "377957173312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒☁゛boost-logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒EXTRA",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "377957173312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "﹒       ｡˚𓂃﹒PRIVATE",
+                "permissions": [
+                    {
+                        "roleName": "・么       Main Founders",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "・么       Staff",
+                        "allow": "52288",
+                        "deny": "377957253120"
+                    },
+                    {
+                        "roleName": "・么       Founders",
+                        "allow": "1024",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒🔧゛announcement",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒PRIVATE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・么       Main Founders",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "・么       Founders",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "・么       Staff",
+                                "allow": "52288",
+                                "deny": "377957253120"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒🔧゛chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒PRIVATE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・么       Staff",
+                                "allow": "52288",
+                                "deny": "377957253120"
+                            },
+                            {
+                                "roleName": "・么       Founders",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "・么       Main Founders",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "﹒🔧゛setup",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "﹒       ｡˚𓂃﹒PRIVATE",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "・么       Founders",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "・么       Staff",
+                                "allow": "52288",
+                                "deny": "377957253120"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "・么       Main Founders",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "・么       Main Founders",
+            "color": "#00fdff",
+            "hoist": true,
+            "permissions": "1071698660937",
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "・么       Founders",
+            "color": "#ab00ff",
+            "hoist": true,
+            "permissions": "1071698529865",
+            "mentionable": false,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "・么       Co Founder",
+            "color": "#6907ff",
+            "hoist": true,
+            "permissions": "1071698529865",
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "・么       Staff",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "1071698529857",
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "・么       Detroxs",
+            "color": "#2d9bff",
+            "hoist": true,
+            "permissions": "1071631420993",
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "・゛Members",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1071631420993",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1071631420993",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1676375240146,
+    "guildID": "949847107840380960",
+    "id": "1075020416243859456",
+    "iconBase64": "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",
+    "iconURL": "https://cdn.discordapp.com/icons/949847107840380960/04d39851a0d32538170cf58f06e9f06e.webp"
+}
